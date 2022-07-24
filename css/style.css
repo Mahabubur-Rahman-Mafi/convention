@@ -1,0 +1,73 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+/* header-section start  */
+
+.header-section .navbar-brand{
+    font-size: 22px;
+    line-height: 33px;
+    font-weight: 700;
+}
+.header-section .navbar-nav a{
+    font-size: 16px;
+    line-height: 24px;
+    color: #3e3e3e;
+}
+.header-section .navbar-nav .nav-link{
+    margin: 0px 10px;
+}
+.header-section .navbar-nav a:hover{
+    color: black;
+    text-decoration: underline;
+}
+
+/* hero-section start  */
+.hero-section .carousel-inner .carousel-caption h5{
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 57.84px;
+    color: #fff;
+}
+.hero-section .carousel-inner .carousel-caption p{
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+    color: #fff;
+}
+.hero-section .carousel-inner .carousel-caption .btn{
+    font-size:18px ;
+    line-height: 24px;
+    font-weight: 500;
+    padding: 10px 43.5px;
+}
+.hero-section .carousel-inner .carousel-caption .btn:hover{
+    background: transparent;
+    border: 2px solid #fff;
+    color: #fff;
+}
+
+/* about-section start  */
+.about-section .text h5{
+    font-size: 38px;
+    line-height: 60px;
+    font-weight: 700;
+    color: #0a0b26;
+}
+.about-section .text p{
+    font-size: 16px;
+    line-height: 28px;
+    font-weight: 400;
+    margin: 0px 0px 20px;
+}
+.about-section .text .btn{
+    font-size:18px ;
+    line-height: 24px;
+    font-weight: 500;
+    padding: 10px 24px;
+}
+.about-section .text .btn:hover{
+    background: transparent;
+    color: #0d6efd;
+    border: 2px solid #0d6efd;
+}
